@@ -21,7 +21,7 @@ Reo is a web application that allows you to curate content and create engaging a
 
 ### Installation
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/Dhairya10/reo-frontend.git
    cd reo-frontend
